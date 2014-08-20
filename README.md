@@ -1,5 +1,15 @@
-### Example
+### CI Testing
 
-> This repo is used for CI Testing. Enjoy this gif as a reward!
+> This repo is used for CI Testing
 
-![i can do that](http://gph.is/17cvPc4)
+
+| [https://codecov.io/][1] | [@codecov][2] | [hello@codecov.io][3] |
+| ------------------------ | ------------- | --------------------- |
+
+-----
+
+
+[1]: https://codecov.io/
+[2]: https://twitter.com/codecov
+[3]: mailto:hello@codecov.io
+
