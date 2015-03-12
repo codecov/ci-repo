@@ -13,3 +13,4 @@
 [2]: https://twitter.com/codecov
 [3]: mailto:hello@codecov.io
 
+> revenge is best served cold. Love is best served hot.
