@@ -10,21 +10,7 @@ xxxxxx xxxxx xx xxxxx
 xxxx xxxx xxxxxx xxxxx
 xxxx xxxxxxxx xxxxxx xxxxxx
 xxxx xxxxxxxxxxxxxxx xxxxxx xxxx
-xxxx xxxxxxxxxxxxxxxx xxxxxx xxxxxxxxxx
-
-xxxx xxxxxxxxxxxxxxxxx xxxxxx xxxxxxxxxxxxx
-
-
-xxxxx x xxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxx x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-x xxxxxx
-xxxxxxxxxxxxxx x xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxx x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxx x xxxxxxxxxxxxxxxxxxxxxxxxx
-
-x xxxxxxxxx xxxxxx
-xxxxxxxxxxx x xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 x xxxxxxxxx xxxx
 xxxxx xxxxx

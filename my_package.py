@@ -3,3 +3,6 @@ def add(number):
 
 def subtract(number):
     return number - 10
+
+def multiply(number):
+    return number * 20
