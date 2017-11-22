@@ -1,2 +1,8 @@
 coverage:
   range: 50...75
+
+flags:
+  this_is_assumed:
+    assume: true
+  this_is_not_assumed:
+    assume: false
