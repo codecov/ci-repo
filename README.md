@@ -1,3 +1,4 @@
+<!-- trigger: enforce-license-compliance workflow -->
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fci-repo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fci-repo?ref=badge_shield)
 
 ### CI Testing
